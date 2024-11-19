@@ -1,0 +1,21 @@
+div {
+  color: blue;
+}
+/* 
+.text {
+  font-size: 40rem;
+} */
+
+.view {
+  position: absolute;
+  left: 0;
+  transition: all ease-in-out 0.3s;
+  font-size: 5rem;
+}
+
+.hide {
+  position: absolute;
+  left: -100%;
+  font-size: 5rem;
+  transition: all ease-in-out 0.3s;
+}
